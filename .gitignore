@@ -31,3 +31,8 @@ Temporary Items
 x64/
 [Bb]in/
 [Oo]bj/
+
+**/.vs
+**/.vscode
+**/bin
+**/obj
