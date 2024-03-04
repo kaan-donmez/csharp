@@ -1,4 +1,6 @@
-# Hi there 👋 The projects I upload here are mostly for configuration purposes or small projects in C#. if you want to try any example in this repo. Please read below.
+# C# Projects
+
+Hi there 👋 The projects I upload here are mostly for configuration purposes or small projects in C#. if you want to try any example in this repo. Please read below.
 
 I hope this repo is helpful and inspirational for you.
 
